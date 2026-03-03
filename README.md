@@ -16,10 +16,10 @@ lider de Projeto, Desenvolvedores Backend, Desenvolvedor Frontend, designer
 - Escrever código pra gente, não pra robô
 - Fazer testes
 - documentar
-- entender o que esta fazendo
+- comunicaçao
 - Commits pequenos e constantes
 - delete de código morto
-- cuidado com o "Copiar e Colar"
+- ter um bom lider
 - README bonitinho
 - pedir ajuda e aceitar ajuda
 - saber trabalhar em equipe e fazer sua parte do trabalho
