@@ -10,3 +10,16 @@ No desenvolvimento de um sistema web para gestão de sementes em Pernambuco, o g
 Se fosse hoje, eu faria diferente dividindo o projeto em tarefas muito menores e com prazos curtos, deixando claro desde o início quem era responsável por cada funcionalidade no GitHub. Isso evitaria que a gente descobrisse os furos só na reta final e distribuiria melhor o peso da responsabilidade.
 # em uma equipe de 5 integrantes como seria a divisao de tarefas perfeita na sua visao
 lider de Projeto, Desenvolvedores Backend, Desenvolvedor Frontend, designer
+# --------------------------------------------------------------------- 
+
+# crie 10 regras de ouro que uma equipe deve atender para construir um software de qualidade
+- Escrever código pra gente, não pra robô
+-Fazer testes
+-documentar
+-entender o que esta fazendo
+-Commits pequenos e constantes
+- delete de código morto
+- cuidado com o "Copiar e Colar"
+- README bonitinho
+- pedir ajuda e aceitar ajuda
+- saber trabalhar em equipe e fazer sua parte do trabalho
