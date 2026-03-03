@@ -14,10 +14,10 @@ lider de Projeto, Desenvolvedores Backend, Desenvolvedor Frontend, designer
 
 # crie 10 regras de ouro que uma equipe deve atender para construir um software de qualidade
 - Escrever código pra gente, não pra robô
--Fazer testes
--documentar
--entender o que esta fazendo
--Commits pequenos e constantes
+- Fazer testes
+- documentar
+- entender o que esta fazendo
+- Commits pequenos e constantes
 - delete de código morto
 - cuidado com o "Copiar e Colar"
 - README bonitinho
